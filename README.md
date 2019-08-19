@@ -5,25 +5,28 @@ Spinning Pokestops and Catching Pokémon without Manually !
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
 ## Circuit Design
+Compact Simulatiion
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_circuit)
+Compact Install Through Hole Component, Simulatiion
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_tht.png)
+KiCad Circuit
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png)
+PCB Front-Side, Simulatiion
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
+PCB Backside, Simulatiion
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbb.png)
+After Install Through Hole Component, Simulatiion
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)
 
 ## Modify Pokemon Go Plus
 **WARNING !**<br>
 
 **Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage. Please make sure you have right tools, such as Soldering Iron.**
-
 + Description, TBC
 
 ## Complete PCB, Upload Arduino Code
-+ Download Gerber File, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer. Or,  using breadboard refer to circuit design.
-
-PCB Front-Side, Simulating
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
-PCB Backside, Simulating
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbb.png)
-After Install Through Hole Component, Simulating
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)
-
++ Download Code_Gerber_Board.zip, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
++ Or, using solderless breadboard refer to circuit design, make it by yourself
 +Description, TBC
 
 ## Bill of Materials
