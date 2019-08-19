@@ -1,25 +1,28 @@
 #  Arduino Play Pokemon Go Plus
-Description<br>
-**B Description**<br>
+Spinning Pokestops and Catching Pokémon with Manually !
 
-## Simulation Images
-Circuit Design<br>
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png)<br>
+## Pokemon Go Plus Enhanced Solution
+Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
+
+## Circuit Design
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png)
 
 ## Modify Pokemon Go Plus
+**WARNING ! Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage of it. Please make sure you have right tools, such as soldering iron**
+<br>
 Description<br>
 
 ## Complete PCB, Upload Arduino Code
-PCB Front Side<br>
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)<br>
-PCB Backside<br>
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbb.png)<br>
-After Install Through Hole Component
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)<br>
+PCB Front-Side, Simulating
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
+PCB Backside, Simulating
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbb.png)
+After Install Through Hole Component, Simulating
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)
 
 ## Bill of Materials
 + Pokemon go plus
-+ Arduino Development Board  ( I choice Arduino Nano) / x1
++ Arduino Development Board  ( Arduino Nano) / x1
 + Nokia 5110 Graphical LCD Board / x1
 + Pin Header, 1x8 ( Male Pin, 2.54mm) / x3
 + Pin Header, 1x5 ( Male Pin, 2.54mm) / x1
@@ -32,7 +35,7 @@ After Install Through Hole Component
 + Micro USB Breakout Board
 + Silver Plated Wire / x3
 
-## Resources
-Arduino Code and Circuit Diagram Compact
+## Resources & Thanks
+Arduino Code and Circuit Diagram Compact<br>
 [PokeBot – Catch Pokémon’s in your sleep (and at work) ](https://vonkonow.com/wordpress/2017/08/pokebot-catch-pokemons-in-your-sleep-and-at-work/)<br>
 **Written by Johan von Konow**
