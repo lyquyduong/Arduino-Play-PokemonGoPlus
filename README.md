@@ -10,7 +10,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 ## Modify Pokemon Go Plus
 **WARNING !**<br>
 
-**Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage. Please make sure you have right tools, such as soldering iron**
+**Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage. Please make sure you have right tools, such as Soldering Iron.**
 
 + Description, TBC
 
