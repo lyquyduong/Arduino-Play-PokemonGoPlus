@@ -9,12 +9,13 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
 ## Modify Pokemon Go Plus
 **WARNING !**<br>
+
 **Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage. Please make sure you have right tools, such as soldering iron**
 
-Description, TBC
++ Description, TBC
 
 ## Complete PCB, Upload Arduino Code
-+Download Gerber File, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer. Or,  using breadboard refer to circuit design.
++ Download Gerber File, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer. Or,  using breadboard refer to circuit design.
 
 PCB Front-Side, Simulating
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
