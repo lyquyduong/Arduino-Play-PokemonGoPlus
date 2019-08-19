@@ -8,9 +8,10 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png)
 
 ## Modify Pokemon Go Plus
-**WARNING ! Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage of it. Please make sure you have right tools, such as soldering iron**
-<br>
-Description<br>
+**WARNING !**
+**Modify Pokemon Go Plus could be damaged it, and lead to unrecoverable damage. Please make sure you have right tools, such as soldering iron**
+
+Description
 
 ## Complete PCB, Upload Arduino Code
 PCB Front-Side, Simulating
@@ -37,5 +38,4 @@ After Install Through Hole Component, Simulating
 
 ## Resources & Thanks
 Arduino Code and Circuit Diagram Compact<br>
-[PokeBot – Catch Pokémon’s in your sleep (and at work) ](https://vonkonow.com/wordpress/2017/08/pokebot-catch-pokemons-in-your-sleep-and-at-work/)<br>
-**Written by Johan von Konow**
+[PokeBot – Catch Pokémon’s in your sleep (and at work) ](https://vonkonow.com/wordpress/2017/08/pokebot-catch-pokemons-in-your-sleep-and-at-work/)  **Written by Johan von Konow**
