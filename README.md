@@ -4,18 +4,18 @@ Spinning Pokestops and Catching Pokémon without Manually !
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
-## Circuit Design
-Compact Simulatiion
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_circuit)
-Compact Install Through Hole Component, Simulatiion
-![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_tht.png)
-KiCad Circuit
+## Circuit Design / PCB Simulatiion
+Circuit
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png)
-PCB Front-Side, Simulatiion
+Compact
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_circuit.png)
+Compact Install THT
+![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_compact_tht.png)
+PCB Front-Side
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
-PCB Backside, Simulatiion
+PCB Backside
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbb.png)
-After Install Through Hole Component, Simulatiion
+After Install THT
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)
 
 ## Modify Pokemon Go Plus
@@ -27,11 +27,11 @@ After Install Through Hole Component, Simulatiion
 ## Complete PCB, Upload Arduino Code
 + Download Code_Gerber_Board.zip, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
 + Or, using solderless breadboard refer to circuit design, make it by yourself
-+Description, TBC
++ Description, TBC
 
 ## Bill of Materials
-+ Pokemon go plus
-+ Arduino Development Board  ( Arduino Nano) / x1
++ Pokemon Go Plus
++ Arduino Development Board ( Arduino Nano) / x1
 + Nokia 5110 Graphical LCD Board / x1
 + Pin Header, 1x8 ( Male Pin, 2.54mm) / x3
 + Pin Header, 1x5 ( Male Pin, 2.54mm) / x1
@@ -41,8 +41,8 @@ After Install Through Hole Component, Simulatiion
 + Slide Switch  ( THT:SW DIP SPSTx01 ) / x2
 + 560uF Capacitor ( THT:CP Radial D8.0mm, P3.50mm ) / x2
 + 470uF Capacitor ( THT:CP Radial D8.0mm, P3.50mm ) / x1
-+ Micro USB Breakout Board
-+ Silver Plated Wire / x3
++ Micro USB Breakout Board / x1
++ 30AWG Wire Wrapping Wire ( Silver Plated Wire ) / x3
 
 ## Resources & Thanks
 Arduino Code and Circuit Diagram Compact<br>
