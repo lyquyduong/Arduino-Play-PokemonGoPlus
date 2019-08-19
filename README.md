@@ -1,5 +1,5 @@
 #  Arduino Play Pokemon Go Plus
-Spinning Pokestops and Catching Pokémon with Manually !
+Spinning Pokestops and Catching Pokémon without Manually !
 
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
@@ -14,6 +14,8 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 Description, TBC
 
 ## Complete PCB, Upload Arduino Code
++Download Gerber File, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer. Or,  using breadboard refer to circuit design.
+
 PCB Front-Side, Simulating
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png)
 PCB Backside, Simulating
@@ -21,7 +23,7 @@ PCB Backside, Simulating
 After Install Through Hole Component, Simulating
 ![ScreenShot](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbtht.png)
 
-Description, TBC
++Description, TBC
 
 ## Bill of Materials
 + Pokemon go plus
