@@ -21,7 +21,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
 
 ## Modify Pokemon Go Plus
-+ <font color="#FF3333">This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.</font>
++ <font color=red>This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.</font>
 + Remove CR2032 battery from Pokemon Go Plus.
 + Using Y00 triwing tripoint screwdriver teardown Pokemon Go Plus.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_teardwon.png" width="800"><br>
@@ -31,7 +31,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Soldering 30AWG wire wrapping wire.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_pinwire.png" width="800"><br>
 + Pokemon Go Plus should stretch seven connect wires as follows.
-+ <font color="#FF3333">LED_Red_GND</font>/<font color="#5599FF">LED_Blue_GND</font>/<font color="#008800">LED_Green_GND</font>/<font color="#FFCC22">Switch</font>/<font color="#FF3333">Vibration_Vcc</font>/Vibration_GND/GND
++ <font color=red>LED_Red_GND</font>/<font color=blue>LED_Blue_GND</font>/<font color=green>LED_Green_GND</font>/<font color=orange>Switch</font>/<font color=red>Vibration_Vcc</font>/Vibration_GND/GND
 + Cutting Pokemon Go Plus case, for setting pin connector.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_case.png" width="800"><br>
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_case_cut.png" width="800"><br>
@@ -53,13 +53,8 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Plug Arduino connector cable, compile and upload program.
 + Power the board from Micro USB connector, make a smoke testing.
 + Making Pokemon Go Plus connect cable, pinout and circuit rule as follows.
-+ <font color="#FF3333">A3 - LED_Red_GND</font>
-+ <font color="#5599FF">A2 - LED_Blue_GND</font>
-+ <font color="#008800">A4 - LED_Green_GND</font>
-+ <font color="#FFCC22">A1 - Switch</font>
-+ <font color="#FF3333">Vcc - Vibration_Vcc</font>
-+ <font color="#000000">A0 - Vibration_GND</font>
-+ <font color="#000000">GND - GND</font>
++ <font color=red>A3 - LED_Red_GND</font> / <font color=blue>A2 - LED_Blue_GND</font> / <font color=green>A4 - LED_Green_GND</font> / <font color=orange>A1 - Switch</font> / <font color=red>Vcc - Vibration_Vcc</font>
++ <font color=black>A0 - Vibration_GND</font> / <font color=black>GND - GND</font>
 + Power on, Connect Pokemon Go Plus.
 + Pray, and enjoy.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_running.png" width="800"><br>
