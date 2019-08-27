@@ -3,11 +3,13 @@ Spinning Pokestops and Catching Pokémon without Manually !
 
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
+
 ## File Description
 + Code_Arduino.zip | Arduino Program
 + Gerber_Arduino-Play-PokemonGoPlus.zip | PCB Layout FIle, For Arduino nano
 + Gerber_Arduino-Play-PokemonGoPlus_v2.zip | PCB Layout FIle, For Arduino nano, Enhanced
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
+
 ## Circuit Design /  PCB Simulatiion
 Circuit
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png" width="800">
@@ -17,6 +19,7 @@ For Arduino Nano Ver 3.0, Enhanced
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_enhanced_pcbf.png" width="800">
 For Arduino Uno R3
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800">
+
 ## Modify Pokemon Go Plus
 + <font color="#FF3333">This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.</font>
 + Remove CR2032 battery from Pokemon Go Plus.
@@ -36,6 +39,7 @@ For Arduino Uno R3
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_pinconnect.png" width="800">
 + Fixed the pin connector, then put everything back, without vibration motor.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_done.png" width="800">
+
 ## Complete PCB, Upload Arduino Code
 + Download Gerber file, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
 + Get PCB from PCB fabrication manufacturer, or PCB prototype manufacturer.
@@ -59,8 +63,10 @@ For Arduino Uno R3
 + Power on, Connect Pokemon Go Plus.
 + Pray, and enjoy.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_running.png" width="800">
+
 ## Demo Video
-<a  href="https://youtu.be/BAgr38G4zdQ" title="YouTube"><img src="https://github.takahashi65.info/lib_img/github_pokemon_youtube.png" width="800" height="450" alt="github_pokemon_youtube"></a>
+<a  href="https://youtu.be/BAgr38G4zdQ" title="YouTube"><img src="https://github.takahashi65.info/lib_img/github_pokemon_youtube.png" width="800" height="450" alt="github_pokemon_youtube"></a><br>
+
 ## Bill of Materials
 + Pokemon Go Plus
 + Arduino Development Board / Arduino Nano V3.0, or Arduino Uno R3
