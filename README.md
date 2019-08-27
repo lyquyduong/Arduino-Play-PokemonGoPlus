@@ -11,13 +11,13 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
 
 ## Circuit Design /  PCB Simulatiion
-Circuit
++ Circuit
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png" width="800">
-For Arduino Nano Ver 3.0
++ For Arduino Nano Ver 3.0
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png" width="800">
-For Arduino Nano Ver 3.0, Enhanced
++ For Arduino Nano Ver 3.0, Enhanced
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_enhanced_pcbf.png" width="800">
-For Arduino Uno R3
++ For Arduino Uno R3
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800">
 
 ## Modify Pokemon Go Plus
