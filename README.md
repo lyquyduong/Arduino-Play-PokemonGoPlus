@@ -60,7 +60,7 @@ For Arduino Uno R3
 + Pray, and enjoy.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_running.png" width="800">
 ## Demo Video
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/BAgr38G4zdQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a  href="https://youtu.be/BAgr38G4zdQ" title="YouTube"><img src="https://github.takahashi65.info/lib_img/github_pokemon_youtube.png" width="800" height="450" alt="github_pokemon_youtube"></a>
 ## Bill of Materials
 + Pokemon Go Plus
 + Arduino Development Board / Arduino Nano V3.0, or Arduino Uno R3
