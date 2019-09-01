@@ -22,26 +22,30 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
 
 ## Modify Pokemon Go Plus
-<font color=red>This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.</font><br>
+**This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.**
+
 + Remove CR2032 battery from Pokemon Go Plus.
-<img src="https://github.takahashi65.info/lib_img/github_image_thumb.png" width="800"><br>
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_battery.png" width="800"><br>
 + Using Y00 triwing tripoint screwdriver teardown Pokemon Go Plus.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_teardwon.png" width="800"><br>
 + Desoldering vibration motor.
-<img src="https://github.takahashi65.info/lib_img/github_image_thumb.png" width="800"><br>
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_vob.png" width="800"><br>
 + Figure out pinout.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_led_pin.png" width="800"><br>
-+ Soldering 30AWG wire wrapping wire, it should stretch seven connect wires.
-<img src="https://github.takahashi65.info/lib_img/github_image_thumb.png" width="800"><br>
++ Soldering 30AWG wire wrapping wire, it should stretch seven connect wires, then fixed the wire.
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_wire.png" width="800"><br>
 + Cutting Pokemon Go Plus case, for setting pin connector.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_case_cut.png" width="800"><br>
-+ Connecting Circuit from Pokemon Go Plus to pin connector, then fixed the wire
++ Connecting Circuit from Pokemon Go Plus to pin connector.
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_pinconnect.png" width="800"><br>
++ Pinout and circuit rule as follows.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_pinout.png" width="800"><br>
 + Fixed the pin connector, then put everything back, without vibration motor.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_reassembly.png" width="800"><br>
 
 ## Complete PCB, Upload Arduino Code
 + Download Gerber file, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
+<img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_order.png" width="800"><br>
 + Get PCB from PCB fabrication manufacturer, or PCB prototype manufacturer.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcb.png" width="800"><br>
 + Soldering electronic components, including pin header, capacitor, slide switch and micro USB breakout board.
@@ -52,7 +56,9 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Soldering Arduino, or you can soldering pin header/connector, so you can remove it easily.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_complete.png" width="800"><br>
 + Plug Arduino connector cable, compile and upload program.
-+ Making Pokemon Go Plus connect cable, pinout and circuit rule as follows.
++ Making Pokemon Go Plus connect cable.
+<img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_wire.png" width="800"><br>
++ Pinout and circuit rule as follows.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_connect_wire.png" width="800"><br>
 + Power on the Board, Connect Pokemon Go Plus.
 + Pray that everything goes well
