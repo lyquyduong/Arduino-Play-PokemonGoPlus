@@ -32,6 +32,10 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_vob.png" width="800"><br>
 + Figure out pinout.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_led_pin.png" width="800"><br>
++ Unfortunately, after teardown more Pokemon Go Plus, I thought that I bought pirated version.
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_compare.png" width="800"><br>
++ Fortunately, the pirated version pinout is same as genuine version.
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_led_pin_origin.png" width="800"><br>
 + Soldering 30AWG wire wrapping wire, it should stretch seven connect wires, then fixed the wire.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_wire.png" width="800"><br>
 + Cutting Pokemon Go Plus case, for setting pin connector.
@@ -51,7 +55,8 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Soldering electronic components, including pin header, capacitor, slide switch and micro USB breakout board.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_assembly.png" width="800"><br>
 + Check Nokia 5110 LCD Board pinout, make sure it can directly connect to board or need wire.
-+ Also, if the backlight circuit already has resistors, [ Resistors R9_D9 ] don't need to install, soldering as jumper.
+<img src="https://github.takahashi65.info/lib_img/github_nokia_5110.png" width="800"><br>
++ If the backlight circuit already has resistors, [ Resistors R9_D9 ] don't need to install, soldering as jumper.
 + Soldering Nokia 5110 LCD Board, or using pin header and pin connector
 + Soldering Arduino, or you can soldering pin header/connector, so you can remove it easily.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_complete.png" width="800"><br>
@@ -63,11 +68,12 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Power on the Board, Connect Pokemon Go Plus.
 + Pray that everything goes well
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_running.png" width="800"><br>
-+ Now, enjoy  
++ Now, enjoy
+<img src="https://github.takahashi65.info/lib_img/github_pokemon_complete.png" width="800"><br>
 
 ## Demo Video
 + Actual Operation  
-<a  href="https://youtu.be/BAgr38G4zdQ" title="YouTube"><img src="https://github.takahashi65.info/lib_img/github_pokemon_youtube.png" width="800"  alt="github_pokemon_youtube"></a><br>
+<a  href="https://youtu.be/61VY3UylwxM" title="YouTube"><img src="https://github.takahashi65.info/lib_img/github_pokemon_youtube.png" width="800"  alt="github_pokemon_youtube"></a><br>
 
 ## Bill of Materials
 + [View Bill of Materials, PDF File](https://github.takahashi65.info/lib_circuit/BOM_Arduino_play_pokemon.pdf)
@@ -80,6 +86,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + 30AWG Wire Wrapping Wire ( Silver Plated Wire ) / or Enamelled Wire
 + 24AWG Stranded Conductors Wire
 + Super Glue
++ Hot Glue Gun
 
 ## Resources & Thanks
 Arduino Code and Circuit Diagram Compact<br>
