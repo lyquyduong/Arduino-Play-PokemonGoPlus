@@ -6,7 +6,7 @@ So you can let Arduino clicking Pokemon Go Plus while you are sleeping, or worki
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
 ## File Description
-+ Code_Arduino.zip | Arduino Code
++ Code | Arduino Code
 + Gerber_Arduino-Play-PokemonGoPlus.zip | PCB Layout FIle, For Arduino nano
 + Gerber_Arduino-Play-PokemonGoPlus_v2.zip | PCB Layout FIle, For Arduino nano, Enhanced
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
