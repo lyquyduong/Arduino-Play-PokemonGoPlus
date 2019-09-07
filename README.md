@@ -7,6 +7,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
 ## File Description
 + Code | Arduino Code
++ Code_KiCad.zip | KiCad Project Archive
 + Gerber_Arduino-Play-PokemonGoPlus.zip | PCB Layout FIle, For Arduino nano
 + Gerber_Arduino-Play-PokemonGoPlus_v2.zip | PCB Layout FIle, For Arduino nano, Enhanced
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
