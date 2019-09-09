@@ -5,6 +5,11 @@ So you can let Arduino clicking Pokemon Go Plus while you are sleeping, or worki
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
+## WARNING
++ **MODIFY POKEMON GO PLUS  COULD BE DAMAGE, OR LEAD TO UNRECOVERABLE DAMAGE.**
++ **DISPOSABLE BATTERY CANNOT CHARGING, REMOVE CR2032 BEFORE CONNECT ARDUINO**
++ **PLEASE MAKE SURE YOU HAVE REQUIRED TOOLS AND SUFFICIENT KNOWLEDGE**
+
 ## File Description
 + Code | Arduino Code
 + Code_KiCad.zip | KiCad Project Archive
@@ -23,8 +28,6 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
 
 ## Modify Pokemon Go Plus
-**This modify could be damage, or lead to unrecoverable damage. Please make sure you have required tools.**
-
 + Remove CR2032 battery from Pokemon Go Plus.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_battery.png" width="800"><br>
 + Using Y00 triwing tripoint screwdriver teardown Pokemon Go Plus.
@@ -79,6 +82,13 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 ## Bill of Materials
 + [View Bill of Materials, PDF File](https://github.takahashi65.info/lib_circuit/BOM_Arduino_play_pokemon.pdf)
 
+## Tips
+Using LIR2032 rechargeable coin battery replace CR2032,  
+Then it can be charge by Arduino.
+  
+Make a simple board including battery,  
+And DIP Switch that can short-circuit VOB_GND and Switch ( Auto Click !)
+
 ## Required Tools
 + Y00 Triwing Tripoint Screwdriver ( Teardown Pokemon Go Plus )
 + Pin Clamping Pliers
@@ -88,6 +98,9 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + 24AWG Stranded Conductors Wire
 + Super Glue
 + Hot Glue Gun
+
+## Disclaimer
+**Arduino code was copy from " Johan von Konow " wbsite**
 
 ## Resources & Thanks
 Arduino Code and Circuit Diagram Compact<br>
