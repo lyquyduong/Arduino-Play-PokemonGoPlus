@@ -13,6 +13,7 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 ## WARNING
 + **MODIFY POKEMON GO PLUS  COULD BE DAMAGE, OR LEAD TO UNRECOVERABLE DAMAGE.**
 + **DISPOSABLE BATTERY CANNOT CHARGING, REMOVE CR2032 BEFORE CONNECT ARDUINO**
++ **DON'T USING LIR2032 REPLACE CR2032，IT WILL BURNOUT THE CHIP**
 + **PLEASE MAKE SURE YOU HAVE REQUIRED TOOLS AND SUFFICIENT KNOWLEDGE**
 
 ## File Description
@@ -23,14 +24,14 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
 
 ## Circuit Design /  PCB Simulatiion
-+ Circuit
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png" width="800"><br>
-+ For Arduino Nano Ver 3.0
++ Circuit
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png" width="800"><br>
-+ For Arduino Nano Ver 3.0, Enhanced
++ For Arduino Nano Ver 3.0
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_enhanced_pcbf.png" width="800"><br>
-+ For Arduino Uno R3
++ For Arduino Nano Ver 3.0, Enhanced
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
++ For Arduino Uno R3  
 
 ## Modify Pokemon Go Plus
 + Remove CR2032 battery from Pokemon Go Plus.
@@ -88,7 +89,7 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 + [View Bill of Materials, PDF File](https://github.takahashi65.info/lib_circuit/BOM_Arduino_play_pokemon.pdf)
 
 ## Tips
-Using LIR2032 rechargeable coin battery replace CR2032,  
+Using **BR2032** rechargeable coin battery replace CR2032,  
 Then it can be charge by Arduino.
   
 Make a simple board including battery,  
