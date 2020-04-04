@@ -11,11 +11,12 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 https://hackaday.io/project/12680-pokemon-go-plus-diy
 
 ## WARNING
-+ **MODIFY POKEMON GO PLUS  COULD BE DAMAGE, OR LEAD TO UNRECOVERABLE DAMAGE.**
-+ **DISPOSABLE BATTERY CANNOT CHARGING, REMOVE CR2032 BEFORE CONNECT ARDUINO**
-+ **DON'T USING LIR2032 REPLACE CR2032，IT WILL BURNOUT THE CHIP**
-+ **PLEASE MAKE SURE YOU HAVE REQUIRED TOOLS AND SUFFICIENT KNOWLEDGE**
-
+```diff
+- Modify Pokemon Go Plus  Could be Damage, or Lead to Unrecoverable Damage.
+- Disposable Battery Cannot Charging, Remove CR2032 Before Connect Arduino
+- Don't Using LIR2032 Replace CR2032，It Will Burnout the Chip
++ Please Make Sure You Have Required Tools and Sufficient Knowledge
+```
 ## File Description
 + Code | Arduino Code
 + Code_KiCad.zip | KiCad Project Archive
@@ -24,14 +25,14 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
 
 ## Circuit Design /  PCB Simulatiion
++ KiCAD Circuit  
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png" width="800"><br>
-+ Circuit
++ For Arduino Nano Ver 3.0  
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcbf.png" width="800"><br>
-+ For Arduino Nano Ver 3.0
++ For Arduino Nano Ver 3.0, Enhanced Version  
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_enhanced_pcbf.png" width="800"><br>
-+ For Arduino Nano Ver 3.0, Enhanced
-<img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
 + For Arduino Uno R3  
+<img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcbf.png" width="800"><br>
 
 ## Modify Pokemon Go Plus
 + Remove CR2032 battery from Pokemon Go Plus.
