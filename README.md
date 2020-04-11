@@ -12,10 +12,10 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 
 ## WARNING
 ```diff
-- Modify Pokemon Go Plus  Could be Damage, or Lead to Unrecoverable Damage.
-- Disposable Battery Cannot Charging, Remove CR2032 Before Connect Arduino
-- Don't Using LIR2032 Replace CR2032，It Will Burnout the Chip
-+ Please Make Sure You Have Required Tools and Sufficient Knowledge
+- Modify PGP could be damage, or lead to unrecoverable damage.
+- Disposable battery cannot recharge, remove it before connect Arduino
+- Don't replace CR2032 with LIR2032 ( 3.6V )  ，It will burnout PGP
++ Please make sure you have required tools and sufficient knowledge
 ```
 ## File Description
 + Code | Arduino Code
@@ -90,7 +90,7 @@ https://hackaday.io/project/12680-pokemon-go-plus-diy
 + [View Bill of Materials, PDF File](https://github.takahashi65.info/lib_circuit/BOM_Arduino_play_pokemon.pdf)
 
 ## Tips
-Using **BR2032** rechargeable coin battery replace CR2032,  
+Using **ML2032** rechargeable coin battery replace CR2032,  
 Then it can be charge by Arduino.
   
 Make a simple board including battery,  
