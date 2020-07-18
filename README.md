@@ -5,10 +5,11 @@ So you can let Arduino clicking Pokemon Go Plus while you are sleeping, or worki
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
+[![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/) [![arduino](https://github.takahashi65.info/lib_badge/arduino-uno.svg)](https://www.arduino.cc/)
+
 ## New Features in Development
 + Create Third party Pokemon Go Plus can match with this Arduino kit
-+ **More information**  
-https://hackaday.io/project/12680-pokemon-go-plus-diy
++ [**More information**](https://hackaday.io/project/12680-pokemon-go-plus-diy)  
 
 ## WARNING
 ```diff
