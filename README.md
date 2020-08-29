@@ -1,15 +1,26 @@
 #  Arduino Play Pokemon Go Plus
+[![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/) [![arduino](https://github.takahashi65.info/lib_badge/arduino-uno.svg)](https://www.arduino.cc/)
+
 Spinning Pokestops and Catching Pokémon without Manually !  
 So you can let Arduino clicking Pokemon Go Plus while you are sleeping, or working
 
 **Pokemon Go Plus Enhanced Solution**<br>
 Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 
-[![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/) [![arduino](https://github.takahashi65.info/lib_badge/arduino-uno.svg)](https://www.arduino.cc/)
-
-## New Features in Development
-+ Create Third party Pokemon Go Plus can match with this Arduino kit
-+ [**More information**](https://hackaday.io/project/12680-pokemon-go-plus-diy)  
+## Contents
+- [Arduino Play Pokemon Go Plus](#arduino-play-pokemon-go-plus)
+  * [Contents](#Contents)
+  * [WARNING](#warning)
+  * [File Description](#file-description)
+  * [Circuit Design /  PCB Simulatiion](#circuit-design----pcb-simulatiion)
+  * [Modify Pokemon Go Plus](#modify-pokemon-go-plus)
+  * [Complete PCB, Upload Arduino Code](#complete-pcb--upload-arduino-code)
+  * [Demo Video](#demo-video)
+  * [Bill of Materials](#bill-of-materials)
+  * [Tips](#tips)
+  * [Required Tools](#required-tools)
+  * [Disclaimer](#disclaimer)
+  * [Resources & Thanks](#resources---thanks)
 
 ## WARNING
 ```diff
@@ -18,6 +29,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 - Don't replace CR2032 with LIR2032 ( 3.6V )  ，It will burnout PGP
 + Please make sure you have required tools and sufficient knowledge
 ```
+
 ## File Description
 + Code | Arduino Code
 + Code_KiCad.zip | KiCad Project Archive
