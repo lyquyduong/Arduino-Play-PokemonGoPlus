@@ -12,15 +12,15 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
   * [Contents](#Contents)
   * [WARNING](#warning)
   * [File Description](#file-description)
-  * [Circuit Design /  PCB Simulatiion](#circuit-design----pcb-simulatiion)
+  * [Circuit Design and PCB Simulatiion](#circuit-design-and-pcb-simulatiion)
   * [Modify Pokemon Go Plus](#modify-pokemon-go-plus)
-  * [Complete PCB, Upload Arduino Code](#complete-pcb--upload-arduino-code)
+  * [Complete PCB and Upload Arduino Code](#complete-pcb-and-upload-arduino-code)
   * [Demo Video](#demo-video)
   * [Bill of Materials](#bill-of-materials)
   * [Tips](#tips)
   * [Required Tools](#required-tools)
   * [Disclaimer](#disclaimer)
-  * [Resources & Thanks](#resources---thanks)
+  * [Resources and Thanks](#resources-and-thanks)
 
 ## WARNING
 ```diff
@@ -37,7 +37,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Gerber_Arduino-Play-PokemonGoPlus_v2.zip | PCB Layout FIle, For Arduino nano, Enhanced
 + Gerber_Arduino-Play-PokemonGoPlus_Uno.zip | PCB Layout FIle, For Arduino Uno
 
-## Circuit Design /  PCB Simulatiion
+## Circuit Design and PCB Simulatiion
 + KiCAD Circuit  
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.png" width="800"><br>
 + For Arduino Nano Ver 3.0  
@@ -71,7 +71,7 @@ Let Pokemon Go Plus become Pokeball Plus, or even batter in catching Pokémon.
 + Fixed the pin connector, then put everything back, without vibration motor.
 <img src="https://github.takahashi65.info/lib_img/github_pokemon_reassembly.png" width="800"><br>
 
-## Complete PCB, Upload Arduino Code
+## Complete PCB and Upload Arduino Code
 + Download Gerber file, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
 <img src="https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_order.png" width="800"><br>
 + Get PCB from PCB fabrication manufacturer, or PCB prototype manufacturer.
@@ -122,6 +122,6 @@ And DIP Switch that can short-circuit VOB_GND and Switch ( Auto Click !)
 ## Disclaimer
 **Arduino code was copy from " Johan von Konow " wbsite**
 
-## Resources & Thanks
+## Resources and Thanks
 Arduino Code and Circuit Diagram Compact<br>
 [PokeBot – Catch Pokémon’s in your sleep (and at work) ](https://vonkonow.com/wordpress/2017/08/pokebot-catch-pokemons-in-your-sleep-and-at-work/)  **Written by Johan von Konow**
